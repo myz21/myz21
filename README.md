@@ -1,14 +1,3 @@
-<p align="center">
-  <a href="https://www.linkedin.com/in/myzz"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
-  <a href="mailto:mhmmdyildiz@proton.me"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-<br/>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
 ### About Me
 
 Senior Computer Engineering student at Ankara Yildirim Beyazit University, graduating in June 2027.
