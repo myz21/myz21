@@ -1,3 +1,17 @@
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/myz-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/myz-dark.png">
+    <img alt="MYZ" src="assets/myz-white.png" width="260">
+  </picture>
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
 ### About Me
 
 Senior Computer Engineering student at Ankara Yildirim Beyazit University, graduating in June 2027.
@@ -57,3 +71,4 @@ I've worked on **AI/ML for 3 years** and on **backend development for about 1 ye
   <a href="https://www.linkedin.com/in/myzz"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="mailto:mhmmdyildiz@proton.me"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
