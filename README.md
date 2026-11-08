@@ -13,8 +13,8 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/LINKEDIN-KULLANICI-ADIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
-  <a href="mailto:muhammedyildiz24@hacettepe.edu.tr"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/myzz"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+  <a href="mailto:mhmmdyildiz@proton.me"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=myz21&style=for-the-badge&color=2C5364">
 </p>
 
@@ -26,7 +26,9 @@
 
 ### 🧠 About Me
 
-I'm a final-year **Computer Engineering** student at Ankara Yildirim Beyazit University, graduating in June 2027.
+Senior Computer Engineering student at Ankara Yildirim Beyazit University, graduating in June 2027.
+
+Currently a research intern in the neuro.AI team at **CNRS CerCo** in Toulouse, supervised by [**Dr. Rufin VanRullen**](https://scholar.google.com/citations?user=1pwyaYgAAAAJ). I work on multimodal Global Workspace representation learning, training models on data collected from Atari Pong.
 
 I've worked on **AI/ML for 3 years** and on **backend development for about 1 year**. I like projects where a model has to leave the notebook and run in a real system: computer vision on an aircraft, an LLM on a hospital's own server, an API that real users call.
 
@@ -35,7 +37,6 @@ Location: Ankara, Turkey
 Education: BSc Computer Engineering, AYBU, 2027
 Focus: Computer Vision, LLMs, Backend
 Values: Discipline, productivity, conscious tech use
-Looking for: Internship and junior roles, part-time
 ```
 
 </td>
@@ -46,6 +47,7 @@ Looking for: Internship and junior roles, part-time
 <img src="https://img.shields.io/badge/🏅_TEKNOFEST_Aviation_AI-Finalist_2025-CD7F32?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/🥉_METU_Teknokent_Hackathon-3rd_Place-CD7F32?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/🥈_Insider_x_Hacettepe_Datathon-2nd_Place-C0C0C0?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/📡_Vodafone-Ideathon-E60000?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/💼_Jotform-Backend_Intern-FF6100?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/🔬_CNRS_CerCo-Research_Intern_under_R._VanRullen-0055A4?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/🏥_inzva_AI_Projects-Turkish_Medical_LLM-6C63FF?style=flat-square" /><br/>
@@ -66,7 +68,7 @@ class Muhammed(nn.Module):
         super().__init__()
         self.role = "Computer Engineering Student, AI and Backend"
         self.focus = ["Computer Vision 👁️", "LLMs and RAG 🧠", "REST APIs ⚙️"]
-        self.languages = ["Python 🐍", "Java ☕", "PHP 🐘", "TypeScript 📘", "C 🔧"]
+        self.languages = ["Python 🐍", "Java ☕", "PHP 🐘", "SQL 🗄️"]
         self.community = ["inzva AI Projects", "TechTipsWiki"]
 
     def forward(self, idea):
@@ -79,19 +81,9 @@ class Muhammed(nn.Module):
 
 ### 🚀 What I'm working on
 
+- 🔬 **Research at CNRS CerCo** under Rufin VanRullen. I trained GRU-based Global Workspace models on 1M environment steps from Atari Pong and tracked the experiments in Weights & Biases.
 - 🏥 **Turkish medical LLM** with the inzva AI Projects team. It is an agentic RAG system with supervised fine-tuning, designed to run on a hospital's own server so patient data stays local.
 - 🌐 **TechTipsWiki**, a platform of alternative technologies for people who want to use technology consciously. I work on the backend: FastAPI, PostgreSQL, React, Nginx and Docker.
-- 🔬 **Research:** I did a research internship at **CNRS CerCo** in France under Rufin VanRullen, on world models. I want to keep one foot in research while building products.
-- 🔭 **Looking for** an internship or junior role in AI/ML or backend, part-time or full-time.
-
-### 🛰️ Selected experience
-
-| What | Where | Details |
-|:---|:---|:---|
-| **Backend Intern** | Jotform | Built a REST API with 45+ endpoints in PHP and MySQL |
-| **Research Intern** | CNRS CerCo, France | Worked under Rufin VanRullen on world models research |
-| **Team Captain** | TEKNOFEST Aviation AI, Zenith AI | YOLO landing-zone detection and ORB visual odometry for a GPS-denied aircraft. Finalist in 2025 |
-| **Team Member** | inzva AI Projects | Turkish medical LLM with agentic RAG and SFT |
 
 ---
 
@@ -99,31 +91,9 @@ class Muhammed(nn.Module):
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| [**DoctorGPT**](https://github.com/myz21/DoctorGPT) | Medical-assistant prototype with per-user conversational memory. Runs via CLI, Streamlit or FastAPI | Python, LangChain, Gemini |
-| [**Career-Score-Prediction**](https://github.com/myz21/Career-Score-Prediction) | BTK Datathon 2026. Student career success prediction with a CatBoost and TabPFN hybrid ensemble | Python, CatBoost |
-| [**Synthetic-Shape-Detection**](https://github.com/myz21/Synthetic-Shape-Detection) | End-to-end object detection pipeline on synthetic shapes over MS COCO backgrounds | PyTorch |
-| [**NicheFlow**](https://github.com/myz21/NicheFlow) | Multi-agent outreach system that researches a prospect before writing a personalized email | n8n, LLM agents |
-| [**GPT**](https://github.com/myz21/GPT) and [**micrograd**](https://github.com/myz21/micrograd) | A character-level GPT and an autograd engine, both built from scratch to understand the internals | Python |
-| [**Energy-Based-EndPoint-Detection**](https://github.com/myz21/Energy-Based-EndPoint-Detection) | Voice activity detection with short-time energy and a double-threshold algorithm | Python |
-| [**AYBUStore**](https://github.com/myz21/AYBUStore) | Campus store project | |
-
----
-
-<h3 align="center">⚡ Tech Stack</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,php,ts,js,react,fastapi,postgres,mysql,docker,nginx,git,linux,pytorch,opencv&perline=8" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-6C63FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-</p>
+| **AI in Aviation Pipeline** | TEKNOFEST finalist project. Computer vision for a GPS-denied UAV: ORB-based visual odometry and YOLO11m landing-zone detection, improved from 0.369 to 0.840 mAP@50 with synthetic data and thermal imagery | Python, YOLO, OpenCV |
+| [**nanoGPT**](https://github.com/myz21/GPT) | A 14.4M-parameter GPT-style decoder-only Transformer trained on 10K Turkish news articles. Validation perplexity of 3.02 | PyTorch, NumPy |
+| [**Privacy Policy Analyzer**](https://github.com/myz21/privacy-policy-analyzer) | CLI tool that discovers, scrapes and LLM-scores website privacy policies. Built with a Senior Cybersecurity Engineer | Python, Selenium, LangChain |
 
 ---
 
@@ -148,16 +118,8 @@ class Muhammed(nn.Module):
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/LINKEDIN-KULLANICI-ADIN"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="mailto:muhammedyildiz24@hacettepe.edu.tr"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/myzz"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:mhmmdyildiz@proton.me"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<div align="center">
-
-```
-"Discipline is choosing between what you want now and what you want most."
-```
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027%2C50:203A43%2C100:2C5364&height=120&section=footer"/>
