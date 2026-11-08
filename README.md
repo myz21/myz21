@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://github.com/myz21">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2C9BD6&center=true&vCenter=true&width=640&lines=%3E_Loading+YOLO+weights...;%3E_Serving+models+with+FastAPI...;%3E_Fine-tuning+a+Turkish+medical+LLM...;%3E_Hello+World!+I'm+Muhammed">
-  </a>
-</div>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/myzz"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
   <a href="mailto:mhmmdyildiz@proton.me"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -56,8 +50,10 @@ I've worked on **AI/ML for 3 years** and on **backend development for about 1 ye
 | **AI in Aviation Pipeline** | TEKNOFEST finalist project. Computer vision for a GPS-denied UAV: ORB-based visual odometry and YOLO11m landing-zone detection, improved from 0.369 to 0.840 mAP@50 with synthetic data and thermal imagery | Python, YOLO, OpenCV |
 | [**nanoGPT**](https://github.com/myz21/GPT) | A 14.4M-parameter GPT-style decoder-only Transformer trained on 10K Turkish news articles. Validation perplexity of 3.02 | PyTorch, NumPy |
 | [**Privacy Policy Analyzer**](https://github.com/myz21/privacy-policy-analyzer) | CLI tool that discovers, scrapes and LLM-scores website privacy policies. Built with a Senior Cybersecurity Engineer | Python, Selenium, LangChain |
-| [**AYBUStore**](https://github.com/myz21/AYBUStore) | E-commerce platform for our university campus store. An AI assistant tracks stock, looks up product information and answers customer questions about availability | Web, AI |
 | [**Spikeflight**](https://github.com/myz21/Spikeflight) | 2D platformer where the player jumps across floating islands and lures enemies into spikes or shoots them. My first Unity game | Unity, C# |
+| **TechTipsWiki** | Platform that evaluates software for ethics, privacy and corporate responsibility, with guides and community Q&A in Turkish and English. I work on the backend | FastAPI, PostgreSQL, React, Nginx, Docker |
+| [**LetMeFind**](https://github.com/myz21/LetMeFind) | Product discovery platform with four stages, from search to side-by-side comparison. A Gemini-based assistant expands short, vague queries into product recommendations | HTML, Tailwind CSS, Gemini API |
+| **Landing page builder** | Built during my Jotform internship: a React landing-page builder on a PHP and MySQL REST API with 45+ endpoints, server-side validation, AI page generation and publish and preview flows | React, PHP, MySQL |
 
 ---
 
